@@ -1,0 +1,16 @@
+C:\Users\rodri\OneDrive\Documentos\CastGroup\ProvaCastProjetosRodrigoMelo\JogoDaAdivinhação\bin\Debug\net5.0\JogoDaAdivinhação.exe
+C:\Users\rodri\OneDrive\Documentos\CastGroup\ProvaCastProjetosRodrigoMelo\JogoDaAdivinhação\bin\Debug\net5.0\JogoDaAdivinhação.deps.json
+C:\Users\rodri\OneDrive\Documentos\CastGroup\ProvaCastProjetosRodrigoMelo\JogoDaAdivinhação\bin\Debug\net5.0\JogoDaAdivinhação.runtimeconfig.json
+C:\Users\rodri\OneDrive\Documentos\CastGroup\ProvaCastProjetosRodrigoMelo\JogoDaAdivinhação\bin\Debug\net5.0\JogoDaAdivinhação.runtimeconfig.dev.json
+C:\Users\rodri\OneDrive\Documentos\CastGroup\ProvaCastProjetosRodrigoMelo\JogoDaAdivinhação\bin\Debug\net5.0\JogoDaAdivinhação.dll
+C:\Users\rodri\OneDrive\Documentos\CastGroup\ProvaCastProjetosRodrigoMelo\JogoDaAdivinhação\bin\Debug\net5.0\JogoDaAdivinhação.pdb
+C:\Users\rodri\OneDrive\Documentos\CastGroup\ProvaCastProjetosRodrigoMelo\JogoDaAdivinhação\obj\Debug\net5.0\JogoDaAdivinhação.csproj.AssemblyReference.cache
+C:\Users\rodri\OneDrive\Documentos\CastGroup\ProvaCastProjetosRodrigoMelo\JogoDaAdivinhação\obj\Debug\net5.0\JogoDaAdivinhação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\OneDrive\Documentos\CastGroup\ProvaCastProjetosRodrigoMelo\JogoDaAdivinhação\obj\Debug\net5.0\JogoDaAdivinhação.AssemblyInfoInputs.cache
+C:\Users\rodri\OneDrive\Documentos\CastGroup\ProvaCastProjetosRodrigoMelo\JogoDaAdivinhação\obj\Debug\net5.0\JogoDaAdivinhação.AssemblyInfo.cs
+C:\Users\rodri\OneDrive\Documentos\CastGroup\ProvaCastProjetosRodrigoMelo\JogoDaAdivinhação\obj\Debug\net5.0\JogoDaAdivinhação.csproj.CoreCompileInputs.cache
+C:\Users\rodri\OneDrive\Documentos\CastGroup\ProvaCastProjetosRodrigoMelo\JogoDaAdivinhação\obj\Debug\net5.0\JogoDaAdivinhação.dll
+C:\Users\rodri\OneDrive\Documentos\CastGroup\ProvaCastProjetosRodrigoMelo\JogoDaAdivinhação\obj\Debug\net5.0\refint\JogoDaAdivinhação.dll
+C:\Users\rodri\OneDrive\Documentos\CastGroup\ProvaCastProjetosRodrigoMelo\JogoDaAdivinhação\obj\Debug\net5.0\JogoDaAdivinhação.pdb
+C:\Users\rodri\OneDrive\Documentos\CastGroup\ProvaCastProjetosRodrigoMelo\JogoDaAdivinhação\obj\Debug\net5.0\JogoDaAdivinhação.genruntimeconfig.cache
+C:\Users\rodri\OneDrive\Documentos\CastGroup\ProvaCastProjetosRodrigoMelo\JogoDaAdivinhação\obj\Debug\net5.0\ref\JogoDaAdivinhação.dll
